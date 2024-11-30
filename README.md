@@ -42,7 +42,7 @@ The server currently supports the following Redis commands:
 -   `PSYNC <replicaid> <offset>`: Partial synchronization.
 -   `WAIT <numreplicas> <timeout>`: Blocks until the specified number of replicas acknowledge the write.
 
-## GROUP NO : 61
+
 ## MEMBERS  :
     NAVEEN PAUDEL
     NIKHIL SAHU 
